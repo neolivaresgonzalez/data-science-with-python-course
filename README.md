@@ -1,7 +1,7 @@
 # Python data processing
 
 ## Courses Context
-I decided to enroll into 2-pack course of data processing with Python. When I took this courses I already had almost 10 years of experience with Python as programming language since my days at University of Santiago. Also, hade some work experience in my prevoius jobs. 
+I decided to enroll into 2-pack course of data processing with Python. When I took this courses I already had almost 10 years of experience with Python as programming language since my days at University of Santiago. Also, I had some work experience with Python in my prevoius jobs. 
 
 As a Software Engineer with Computer Sciense formation through this courses I could revisit again the fundamentals of Python and basic and intermediate data analysis.
 
