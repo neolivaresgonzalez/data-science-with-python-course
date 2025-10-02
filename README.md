@@ -9,7 +9,7 @@ As a Software Engineer with Computer Science formation through this courses I co
 
 Course goal: Learn and apply basic programming tools focused in data processing
 
-### Course 2: Python for data handling: intermediate
+### Course 2: Python for data analysis: intermediate level
 
 Course goal: Learn and apply advanced data processing tools and techniques in professional environments. Gather skills to facilitate analysis tasks completion and problem solving.
 
